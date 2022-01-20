@@ -32,7 +32,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.largestno">
+  <component name="RunManager" selected="Application.Casecheck">
+    <configuration name="Casecheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Casecheck" />
+      <module name="java basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="condition" />
       <module name="java basics" />
@@ -63,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Casecheck" />
         <item itemvalue="Application.largestno" />
         <item itemvalue="Application.loops" />
         <item itemvalue="Application.condition" />
