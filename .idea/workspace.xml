@@ -32,7 +32,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Reversenum">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="java basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Casecheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casecheck" />
       <module name="java basics" />
@@ -61,20 +68,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="largestno" />
-      <module name="java basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Reversenum" />
         <item itemvalue="Application.Countnum" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Casecheck" />
-        <item itemvalue="Application.largestno" />
       </list>
     </recent_temporary>
   </component>

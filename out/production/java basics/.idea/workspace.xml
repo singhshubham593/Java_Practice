@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Countnum">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="java basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Casecheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Casecheck" />
       <module name="java basics" />
@@ -55,15 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="largestno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="largestno" />
-      <module name="java basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops" />
+    <configuration name="Reversenum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reversenum" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +68,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Reversenum" />
         <item itemvalue="Application.Countnum" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Casecheck" />
-        <item itemvalue="Application.largestno" />
-        <item itemvalue="Application.loops" />
       </list>
     </recent_temporary>
   </component>
