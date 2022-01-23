@@ -8,7 +8,7 @@ public class switchsyntax {
 
         // Syntax;
 
-        switch (exppression){
+        switch (variable){   // variable = expression;
             case X:              //X = one;
                 //do something;
             case Y:              //Y = two;
