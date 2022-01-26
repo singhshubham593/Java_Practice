@@ -40,15 +40,9 @@ public class NestedSwitchCase {
             case 3 -> {
                 System.out.println("empoy no 3");
                 switch (department) {
-                    case "IT":
-                        System.out.println("IT Department");
-                        break;
-                    case "CSE":
-                        System.out.println("CSE Department");
-                        break;
-                    default:
-                        System.out.println("Envalid department");
-
+                    case "IT" -> System.out.println("IT Department");
+                    case "CSE" -> System.out.println("CSE Department");
+                    default -> System.out.println("Envalid department");
                 }
             }
             default -> System.out.println("NO empoy is here");
