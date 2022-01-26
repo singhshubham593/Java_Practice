@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class methodsum {
     public static void main(String[] args) {
        sum();
+       sum();
        sum();   // we can use  some for many time if we want;
     }
       // Syntex of method;
