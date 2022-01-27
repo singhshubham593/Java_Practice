@@ -7,7 +7,7 @@ public class methodsum {
     }
     // Syntex of method;
         /*
-        access modifier (we'll look in oop) return_tpye name () {
+         return_tpye Functionname (type arg1, type arg2..) {
              // body ;
              return statement;
          */
