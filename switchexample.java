@@ -4,7 +4,7 @@ public class switchexample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String fruit = in.next();
-        //about fruit;
+        //switch example of fruit;
 
         switch (fruit) {
             case "mango":
