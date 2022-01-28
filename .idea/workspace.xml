@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java basics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printMynamemethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/printMynamemethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +32,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.printMynamemethod">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+  <component name="RunManager" selected="Application.Greeting">
+    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greeting" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Greeting" />
         <item itemvalue="Application.printMynamemethod" />
         <item itemvalue="Application.methodsum" />
         <item itemvalue="Application.NestedSwitchCase" />
         <item itemvalue="Application.switchexample" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
