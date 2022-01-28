@@ -28,7 +28,7 @@ public class switchdaynameexample {
                   System.out.println("sunday");
                   break;
 
-        /*    //  fine Syntax of above program;
+        /*    //  fine Syntax of  day name in a week above program;
           switch (day) {
             case 1 -> System.out.println("monday");
             case 2 -> System.out.println("Tuesday");
