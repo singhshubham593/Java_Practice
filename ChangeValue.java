@@ -9,6 +9,6 @@ public class ChangeValue {
     }
      static void change(int[] nums){
 
-        nums[0]=77;
+        nums[0]=77;//ijf you make a change to the object via this ref  variable,same object will be changed;
     }
 }
