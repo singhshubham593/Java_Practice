@@ -4,6 +4,7 @@ public class Greeting {
 
             greeting();
         }
+
         static void greeting(){
             System.out.println("Hello World");
     }
