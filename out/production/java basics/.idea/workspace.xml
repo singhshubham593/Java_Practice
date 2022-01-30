@@ -32,16 +32,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.greetingmethod">
-    <configuration name="NestedSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedSwitchCase" />
+  <component name="RunManager" selected="Application.returmig">
+    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greeting" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="greetingmethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="greetingmethod" />
+    <configuration name="NestedSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NestedSwitchCase" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="switchexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="switchexample" />
+    <configuration name="returmig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="returmig" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.greetingmethod" />
+        <item itemvalue="Application.returmig" />
+        <item itemvalue="Application.Greeting" />
         <item itemvalue="Application.printMynamemethod" />
         <item itemvalue="Application.methodsum" />
         <item itemvalue="Application.NestedSwitchCase" />
-        <item itemvalue="Application.switchexample" />
       </list>
     </recent_temporary>
   </component>
