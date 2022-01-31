@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ChangeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChangeValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shodowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/shodowing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +33,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ChangeValue">
+  <component name="RunManager" selected="Application.shodowing">
     <configuration name="ChangeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChangeValue" />
-      <module name="java basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greeting" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,13 +62,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="shodowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shodowing" />
+      <module name="java basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.shodowing" />
         <item itemvalue="Application.ChangeValue" />
         <item itemvalue="Application.PassExample" />
         <item itemvalue="Application.ParameterOne" />
         <item itemvalue="Application.returmig" />
-        <item itemvalue="Application.Greeting" />
       </list>
     </recent_temporary>
   </component>
