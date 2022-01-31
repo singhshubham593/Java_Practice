@@ -32,16 +32,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.VarArgs">
+  <component name="RunManager" selected="Application.methodOverloaing">
     <configuration name="ChangeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChangeValue" />
-      <module name="java basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParameterOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ParameterOne" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +54,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="methodOverloaing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodOverloaing" />
+      <module name="java basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="shodowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shodowing" />
       <module name="java basics" />
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.methodOverloaing" />
         <item itemvalue="Application.VarArgs" />
         <item itemvalue="Application.shodowing" />
         <item itemvalue="Application.ChangeValue" />
         <item itemvalue="Application.PassExample" />
-        <item itemvalue="Application.ParameterOne" />
       </list>
     </recent_temporary>
   </component>
