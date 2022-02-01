@@ -1,6 +1,6 @@
 public class methodOverloaing {
     public static void main(String[] args) {
-        //Method overloading 
+        //Method overloading
         fun(6);
         int ans = sum(47,86);
         System.out.println(ans);
