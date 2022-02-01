@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+   // To find prime no;
+
 public class PrimeNo {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
