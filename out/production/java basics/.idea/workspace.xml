@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimeNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Questions">
-    <configuration name="ChangeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChangeValue" />
-      <module name="java basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.arraySyntex">
     <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions" />
       <module name="java basics" />
@@ -50,6 +42,13 @@
     </configuration>
     <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VarArgs" />
+      <module name="java basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arraySyntex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraySyntex" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arraySyntex" />
         <item itemvalue="Application.Questions" />
         <item itemvalue="Application.methodOverloaing" />
         <item itemvalue="Application.VarArgs" />
         <item itemvalue="Application.shodowing" />
-        <item itemvalue="Application.ChangeValue" />
       </list>
     </recent_temporary>
   </component>
