@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/methodOverloaing.java" beforeDir="false" afterPath="$PROJECT_DIR$/methodOverloaing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.PrimeNo">
+  <component name="RunManager" selected="Application.Questions">
     <configuration name="ChangeValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChangeValue" />
       <module name="java basics" />
@@ -41,8 +41,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNo" />
+    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,7 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeNo" />
+        <item itemvalue="Application.Questions" />
         <item itemvalue="Application.methodOverloaing" />
         <item itemvalue="Application.VarArgs" />
         <item itemvalue="Application.shodowing" />
