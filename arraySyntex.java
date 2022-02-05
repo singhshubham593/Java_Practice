@@ -8,7 +8,7 @@ public class arraySyntex {
 
       int[] rnos = new int[5];
 
-      
+      // to direct 
         int[] rnos2 = {23,43,75,87};
         System.out.println(rnos2[1]);
     }
