@@ -1,15 +1,43 @@
+import java.util.Scanner;
+
 public class arraySyntex {
     public static void main(String[] args) {
       // Syntex
 
       // datatype[] variable_name = new datatype[size];
 
-      // store 5 roll no;
 
-      int[] rnos = new int[5];
+      // Shubham Singh got marks in class 10 in 5 subject;
 
-      // to direct 
-        int[] rnos2 = {23,43,75,87};
-        System.out.println(rnos2[1]);
+      int[] marks = new int[5];
+
+      marks[0]=74;//English;
+      marks[1]=64;//Maths;
+      marks[2]=64;//Science;
+      marks[3]=76;//Hindi;
+      marks[4]=84;//Social Science;
+
+       //to direct;
+       //  int[] marks ={74;64;64;76;84} ;
+
+      for (int i =0;i<5;i++){
+          System.out.println(marks[i]);
+
+      }
+      /*
+        Scanner no = new Scanner(System.in);
+        int size =no.nextInt();
+        int number[] =new int[size];
+
+        // input
+        for(int i =0; i < size;i++){
+          number[i]=no.nextInt();
+        }
+        //output
+        for(int i = 0; i<size; i++){
+            System.out.println(number[i]);
+        }
+        */
     }
+
 }
