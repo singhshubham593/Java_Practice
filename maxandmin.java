@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+  // find max and min number in a arrey of Integers.
+
 public class maxandmin {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
