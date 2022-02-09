@@ -33,9 +33,9 @@ public class arraySyntex {
         for(int i =0; i < size;i++){
           number[i]=no.nextInt();
         }
-        //output
+        //print the no in array;
         for(int i = 0; i<size; i++){
-            System.out.println(number[i]);
+            System.out.println(number[i] + " ");
         }
         */
     }

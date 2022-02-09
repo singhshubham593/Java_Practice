@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/array2d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arraySyntex.java" beforeDir="false" afterPath="$PROJECT_DIR$/arraySyntex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +41,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.introduction">
+  <component name="RunManager" selected="Application.maxandmin">
     <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Questions" />
-      <module name="java basics" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarArgs" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +63,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="maxandmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxandmin" />
+      <module name="java basics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="methodOverloaing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="methodOverloaing" />
       <module name="java basics" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maxandmin" />
         <item itemvalue="Application.introduction" />
         <item itemvalue="Application.arraySyntex" />
         <item itemvalue="Application.Questions" />
         <item itemvalue="Application.methodOverloaing" />
-        <item itemvalue="Application.VarArgs" />
       </list>
     </recent_temporary>
   </component>
