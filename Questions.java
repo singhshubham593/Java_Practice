@@ -44,7 +44,7 @@ public class Questions {
         }
         return sum == original;
         /*
-        //
+        // butterfly stracture progrem;
           int n = 4;
 
             //upper part
