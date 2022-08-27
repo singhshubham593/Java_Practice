@@ -4,7 +4,7 @@ public class binarySearch {
         int target = 9;
         // value is store by funcion call.
         int ans = filter(arr,target);
-        System.out.println(ans);
+        System.out.println("THe target is found at index number : "+ ans);
     }
     //return the index.
     //return -1 if it does not exist.
