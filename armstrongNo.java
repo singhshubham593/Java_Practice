@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Armstrong Number
 public class armstrongNo {
     public static void main(String[] args) {
 
