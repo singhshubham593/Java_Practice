@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Case chack 
 public class Casecheck {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
