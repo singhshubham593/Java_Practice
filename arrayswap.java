@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// Swap array Index number
 public class arrayswap {
     public static void main(String[] args) {
         int[]arr={1,4,23,9,18};
