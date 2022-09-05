@@ -1,6 +1,7 @@
 public class linearSearch {
     // linear search
     public static void main(String[] args) {
+        //array define and initialised
         int[] arr={34,56,99,87,99};
         int target =87;
         //store value in ans
