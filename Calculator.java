@@ -16,16 +16,19 @@ public class Calculator {
                System.out.print("Enter two number: ");
                int num1 = in.nextInt();
                int num2 = in.nextInt();
-
+                // for addition
                if(op == '+'){
                    ans = num1 +num2;
                }
+               // for substration
                 if(op == '-'){
                     ans = num1 -num2;
                 }
+                // for multiply
                  if(op == '*'){
                      ans =num1 *num2;
                  }
+                 // for devide
                   if(op == '/'){
                     if(num2 !=0) {
                       ans = num1 /num2;
