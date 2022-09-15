@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
 public class Fibonacci {
-    public static void main(String[] args) {
-
-        //how to find Fibonacci number;
+    //how to find Fibonacci number;
+    public static void main(String[] args){
 
          Scanner in =new Scanner(System.in);
          int n =in.nextInt();
