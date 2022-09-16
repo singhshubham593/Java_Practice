@@ -4,7 +4,7 @@ public class Countnum {
 
         int n = 6473636 ;
         int count=0;
-        
+
         while(n>0){
             int rem = n%10 ;
             if(rem == 6){
