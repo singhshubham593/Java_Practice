@@ -7,7 +7,6 @@ public class loops {
                  // body
                  }
 
-
         //Example = print number from 1 to 5;
 
         for(int num=1; num<=5; num+=1){
@@ -19,7 +18,6 @@ public class loops {
            while(condition){
                // body
            }
-
 
             // Example = print number from 1 to 5;
 
