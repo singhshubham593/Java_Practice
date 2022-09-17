@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// add two number using function and non function
 public class methodsum {
     public static void main(String[] args) {
     //    sum();
