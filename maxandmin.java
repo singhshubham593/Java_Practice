@@ -15,8 +15,8 @@ public class maxandmin {
         }
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
-
-        for(int i=0; i <number.length ; i++){ // compare value
+        // compare value
+        for(int i=0; i <number.length ; i++){
             if(number[i]<min){
                 min = number[i];
             }
