@@ -1,10 +1,8 @@
 import java.util.Scanner;
-
+// find the largest in 3 no;
 public class largestno {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
-        // find the largest in 3 no;
 
         int a =in.nextInt();
         int b =in.nextInt();
