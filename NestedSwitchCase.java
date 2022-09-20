@@ -1,12 +1,10 @@
 import java.util.Scanner;
-
+// Nested switch with Employ example;
 public class NestedSwitchCase {
     public static void main(String[] args) {
         Scanner in =new Scanner(System.in);
         int empID =in.nextInt();
         String department =in.next();
-
-         // Nested switch with Employ example;
 
         switch(empID){
                case 1:
