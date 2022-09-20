@@ -1,4 +1,4 @@
-// Parameter(Integer Function)
+// Use of Parameter(Integer Function)
 public class ParameterOne {
     public static void main(String[] args) {
         int ans =sum(4,6);
