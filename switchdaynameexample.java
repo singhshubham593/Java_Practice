@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// switch case example
 public class switchdaynameexample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
