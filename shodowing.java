@@ -1,5 +1,6 @@
+//show the different of value using scope;
 public class shodowing {
-    static int x =90; // this will be shadowed at line 8;
+    static int x = 90; // this will be shadowed at line 8;
 
     public static void main(String[] args) {
         System.out.println(x); //90

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// multiple ouestion
 public class Questions {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -44,7 +44,7 @@ public class Questions {
         }
         return sum == original;
         /*
-        // butterfly stracture progrem;
+        // butterfly stracture program;
           int n = 4;
 
             //upper part

@@ -1,7 +1,6 @@
+// Reverse the number;
 public class Reversenum {
     public static void main(String[] args) {
-
-        // Reverse the number;
 
         int num =47232;
 

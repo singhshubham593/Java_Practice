@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="">
+    <list default="true" id="e6c657c0-53d1-4ee5-8e47-b20c76e9a354" name="Changes" comment="reverse element of array">
+      <change beforePath="$PROJECT_DIR$/.idea/java basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java basics.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arraySyntex.java" beforeDir="false" afterPath="$PROJECT_DIR$/arraySyntex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/Questions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reversenum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reversenum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/.idea/java basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/.idea/java basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/ChangeValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/ChangeValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/Countnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/Countnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/array2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java basics/maxandmin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java basics/maxandmin.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -37,34 +48,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
-  <component name="RunManager" selected="Application.maxandmin">
-    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Questions" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/91933/java basics/out&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Reversenum">
+    <configuration name="Reversenum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reversenum" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraySyntex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraySyntex" />
+    <configuration name="armstrongNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="armstrongNo" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction" />
+    <configuration name="exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maxandmin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxandmin" />
+    <configuration name="maxnoarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxnoarr" />
       <module name="java basics" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Reversenum" />
+      <item itemvalue="Application.armstrongNo" />
+      <item itemvalue="Application.exception" />
+      <item itemvalue="Application.maxnoarr" />
+      <item itemvalue="Application.methodOverloaing" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.maxandmin" />
-        <item itemvalue="Application.introduction" />
-        <item itemvalue="Application.arraySyntex" />
-        <item itemvalue="Application.Questions" />
+        <item itemvalue="Application.armstrongNo" />
+        <item itemvalue="Application.maxnoarr" />
         <item itemvalue="Application.methodOverloaing" />
+        <item itemvalue="Application.exception" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +114,49 @@
       <option name="presentableId" value="Default" />
       <updated>1642580515762</updated>
     </task>
+    <task id="LOCAL-00001" summary="swap no from array index">
+      <created>1659023183422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659023183422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="swap no from array index">
+      <created>1659023560674</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659023560674</updated>
+    </task>
+    <task id="LOCAL-00003" summary="swap no from array index">
+      <created>1659023577575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659023577575</updated>
+    </task>
+    <task id="LOCAL-00004" summary="select largest no from array">
+      <created>1659024511421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659024511421</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Reverse element of array">
+      <created>1659025562377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659025562377</updated>
+    </task>
+    <task id="LOCAL-00006" summary="reverse element of array">
+      <created>1659025864297</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659025864297</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,21 +164,72 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="swap no from array index" />
+    <MESSAGE value="select largest no from array" />
+    <MESSAGE value="Reverse element of array" />
+    <MESSAGE value="reverse element of array" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse element of array" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/loops.java</url>
-          <line>25</line>
+          <line>23</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_basics$methodOverloaing.ic" NAME="methodOverloaing Coverage Results" MODIFIED="1658900781006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/java_basics$arrayswap.ic" NAME="arrayswap Coverage Results" MODIFIED="1659021694922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/java_basics$maxnoarr.ic" NAME="maxnoarr Coverage Results" MODIFIED="1659024383363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/java_basics$exception.ic" NAME="exception Coverage Results" MODIFIED="1658646034616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/java_basics$reversearr.ic" NAME="reversearr Coverage Results" MODIFIED="1659025481565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
