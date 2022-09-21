@@ -1,4 +1,4 @@
-//show the different of value using scope;
+//show the different of value using shodow;
 public class shodowing {
     static int x = 90; // this will be shadowed at line 8;
 
