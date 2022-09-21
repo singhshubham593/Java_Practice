@@ -1,4 +1,4 @@
-// Reverse the number;
+// Reverse the number in simple program;
 public class Reversenum {
     public static void main(String[] args) {
 
