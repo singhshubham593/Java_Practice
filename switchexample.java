@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Example of Switch case;
 public class switchexample {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -23,7 +23,8 @@ public class switchexample {
                 System.out.println("please enter valid fruit");
 
                 //new Syntax of above example;
-                /*switch (fruit) {
+                /*
+                switch (fruit) {
             case "mango" -> System.out.println("The king of mango");
             case "apple" -> System.out.println("Sweet red fruit");
             case "orange" -> System.out.println("Sweet yellow fruit");
