@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Syntex of Switch Case;
 public class switchsyntax {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
