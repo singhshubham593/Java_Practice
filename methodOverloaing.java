@@ -1,3 +1,4 @@
+// one class and more than one method.
 public class methodOverloaing {
     public static void main(String[] args) {
         //Method overloading
@@ -6,8 +7,9 @@ public class methodOverloaing {
         System.out.println(ans);
         fun("Shubham Singh");
 
-    } static void fun(int a){ //Two or more fumction of same name can exit;
-                              // no of Argument or type of Argument will be differet;
+    }
+    static void fun(int a){ //Two or more function of same name can exit;
+                              // no of Argument or type of Argument will be different;
         System.out.print("First one:");
         System.out.println(a);
     }
