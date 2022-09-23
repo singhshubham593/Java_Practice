@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// printing name by using method.
 public class printMynamemethod {
     public static void printMyName(String name) {
         System.out.println(name);
