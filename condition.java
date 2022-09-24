@@ -1,7 +1,8 @@
+//conditionals statement syntex with example
 public class condition {
     public static void main(String[] args) {
     /*
-      Syntex of if ststements:
+      Syntex of if statements:
       if(boolean expression t or f){
           // body
           } esle{
