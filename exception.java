@@ -1,3 +1,4 @@
+// exception handling
 public class exception {
     public static void main(String[] args) {
         //  TRY - CATCH in EXCEPTION HANDING
