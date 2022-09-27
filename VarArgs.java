@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// variable argument
 public class VarArgs {
     public static void main(String[] args) {
         /*
