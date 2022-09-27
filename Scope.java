@@ -1,3 +1,4 @@
+// SCOPE
 public class Scope {
     public static void main(String[] args) {
         // Method scope syntex
