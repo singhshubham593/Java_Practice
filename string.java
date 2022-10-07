@@ -7,5 +7,8 @@ public class string {
         System.out.println(fullName);
 
         // charAt
+        for( int i=0; i<fullName.length(); i++){
+            System.out.println(fullName.charAt(i)); // for index 0 to n ,to print all world
+        }
     }
 }
