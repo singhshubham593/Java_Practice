@@ -1,6 +1,11 @@
 public class string {
     public static void main(String[] args) {
-        String name = "Shubham";
-        System.out.println(name);
+        //concatenation
+        String firstFame = "Shubham";
+        String lastName = " Singh";
+        String fullName = firstFame +" "+lastName;
+        System.out.println(fullName);
+
+        //
     }
 }
