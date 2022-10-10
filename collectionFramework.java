@@ -24,6 +24,7 @@ public class collectionFramework {
      System.out.println(list);
 
      */
+        /*
 
         // type safe collection
         ArrayList<String> name = new ArrayList<>();
@@ -53,5 +54,7 @@ public class collectionFramework {
         System.out.println(name);
 
         // and many more collection is left
+
+         */
     }
 }
